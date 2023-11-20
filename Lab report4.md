@@ -4,7 +4,7 @@ For the lab report this week, reproduce the task from above on your own. For eac
 
 ## Step4: Log into ieng6
 
-screenshot：
+screenshot:
 
 ![cd](LabReport4(1).png)
 
