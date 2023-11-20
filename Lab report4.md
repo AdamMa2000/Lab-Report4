@@ -6,7 +6,7 @@ For the lab report this week, reproduce the task from above on your own. For eac
 
 screenshot:
 
-![cd](LabReport4(1).png)
+![cd](LabReport4(1).jpeg)
 
 I used the following steps: 
 1. First I type **ssh cs15lfa23ns@ieng6.ucsd.edu**
